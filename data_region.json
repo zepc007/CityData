@@ -1263,24 +1263,24 @@
           "元朗区"
         ],
         "children_en": [
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN"
+          "Central and West District",
+          "Eastern District",
+          "Kowloon City District",
+          "Kwun Tong District",
+          "Southern District",
+          "Sham Shui Po District",
+          "Wong Tai Sin District",
+          "Wan Chai District",
+          "Yau Tsim Mong District",
+          "Island District",
+          "Kwai Tsing District",
+          "North District",
+          "Sai Kung District",
+          "Sha Tin District",
+          "Tuen Mun District",
+          "Tai Po District",
+          "Tsuen Wan District",
+          "Yuen Long District"
         ]
       },
       {
@@ -1297,13 +1297,13 @@
           "路环"
         ],
         "children_en": [
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN",
-          "NaN"
+          "Our Lady of Fátima",
+          "Saint Anthony",
+          "Saint Anthony",
+          "Saint Lazarus",
+          "Saint Lawrence",
+          "Taipa",
+          "Coloane"
         ]
       }
     ]
